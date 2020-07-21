@@ -111,7 +111,7 @@ public class TesterPreferences {
         Anyplace client = new Anyplace(preferences);
 
         response = client.radioByCoordinatesFloor(coordinates_la, coordinates_lo, floor);
-    // Comment
+    // Comment again
     }
 
     @Test
